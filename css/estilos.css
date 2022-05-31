@@ -8,3 +8,8 @@ body{
 .card{
     margin: auto;
 }
+
+.card-body{
+    text-align: justify;
+    font-family: cursive;
+}
