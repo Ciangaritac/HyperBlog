@@ -13,3 +13,19 @@ body{
     text-align: justify;
     font-family: cursive;
 }
+
+#cabecera{
+    background: #33a;
+    font-size: 35px;
+    color: white;
+    text-align: left;
+    padding: 1em;
+    font-weight: bold;
+    box-shadow: 12px 12px 26px -9px rgba(0,0,0,0.43);
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
